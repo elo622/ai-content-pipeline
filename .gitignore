@@ -1,0 +1,60 @@
+# ----------------------------------------------------------
+# Environment variables and secrets
+# ----------------------------------------------------------
+
+.env
+.env.local
+.env.*.local
+
+# ----------------------------------------------------------
+# API credentials and authentication tokens
+# ----------------------------------------------------------
+
+client_secrets.json
+gmail_token.json
+youtube_token.json
+*.pickle
+
+# ----------------------------------------------------------
+# Python generated files
+# ----------------------------------------------------------
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------------------------------------
+# Virtual environments
+# ----------------------------------------------------------
+
+venv/
+.venv/
+
+# ----------------------------------------------------------
+# Generated pipeline content
+# ----------------------------------------------------------
+
+workspace/source_articles/
+workspace/scripts/
+workspace/images/
+workspace/voiceovers/
+workspace/timelines/
+workspace/videos/
+workspace/temp/
+workspace/reports/
+workspace/state/
+
+# ----------------------------------------------------------
+# Temporary and log files
+# ----------------------------------------------------------
+
+*.log
+images_list.txt
+
+# ----------------------------------------------------------
+# Operating system files
+# ----------------------------------------------------------
+
+Thumbs.db
+.DS_Store
