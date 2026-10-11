@@ -22,7 +22,7 @@ executed automatically from beginning to end through a single pipeline runner.
 
 Watch the pipeline run from source retrieval to a finished short-form video:
 
-[▶ Watch the AI Content Pipeline Demo](demo/ai_content_pipeline_demo.mp4)
+[▶ Watch the AI Content Pipeline Demo](https://elo622.github.io/ai-content-pipeline/demo.html)
 
 
 
