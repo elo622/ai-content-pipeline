@@ -18,7 +18,11 @@ executed automatically from beginning to end through a single pipeline runner.
 
 \---
 
+## Demo
 
+Watch the pipeline run from source retrieval to a finished short-form video:
+
+[▶ Watch the AI Content Pipeline Demo](demo/ai_content_pipeline_demo.mp4)
 
 
 
